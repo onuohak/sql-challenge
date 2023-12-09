@@ -2,6 +2,8 @@ I worked with other teammates to complete this assignment.
 
 # sql-challenge
 
+Code found in the data files in .sql format, results from running code in pgadmin is in screen shots under images. 
+
 Requirements
 
 Data Modeling (10 points)
